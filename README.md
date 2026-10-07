@@ -28,6 +28,6 @@ Or copy `.claude/` and `CLAUDE.md` into your vault, open Claude Code there and a
 Simple frontmatter parsing (not full YAML); plugin-specific syntax is not interpreted; works on plain-markdown vaults on disk.
 
 ## More
-This is one of six skills in the **Second Brain Kit for Obsidian + Claude Code**: task roll-up, inbox triage with dry-run and undo, weekly-review facts, link suggestions and daily notes with carried-over tasks. [https://croucamp.gumroad.com/l/obsidian-second-brain-kit](https://croucamp.gumroad.com/l/obsidian-second-brain-kit)
+This is one of six skills in the **Second Brain Kit for Obsidian + Claude Code**: task roll-up, inbox triage with dry-run and undo, weekly-review facts, link suggestions and daily notes with carried-over tasks. [https://sonneblomdigitaal.gumroad.com/l/obsidian-second-brain-kit](https://sonneblomdigitaal.gumroad.com/l/obsidian-second-brain-kit)
 
 MIT licensed.
